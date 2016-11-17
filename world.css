@@ -1,0 +1,22 @@
+
+body {
+    background-image: url(RandWorldOPT.jpg);
+}
+
+#controls {
+    background-color: green;
+}
+
+h1 { 
+    text-align:center;
+    font-family: verdana, "Times New Roman",
+        Times;
+    color: green;
+}
+    
+#result {
+    text-align:center;
+    font-family: "Times New Roman",
+        Times, verdana;
+  color: White;
+}
